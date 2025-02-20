@@ -1,2 +1,0 @@
-# kurdwebb
-kurdwebb
